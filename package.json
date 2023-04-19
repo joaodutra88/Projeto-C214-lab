@@ -1,0 +1,12 @@
+{
+    "name": "projeto-c214-lab",
+    "version": "1.0.0",
+    "description": "![Repo Size](https://img.shields.io/github/repo-size/joaodutra88/Projeto-C214-lab)\r ![Linguagens usadas](https://img.shields.io/github/languages/count/joaodutra88/Projeto-C214-lab)\r ![Linguagem mais usada](https://img.shields.io/github/languages/top/joaodutra88/Projeto-C214-lab)\r ![Última atualização](https://img.shields.io/github/last-commit/joaodutra88/Projeto-C214-lab)",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
